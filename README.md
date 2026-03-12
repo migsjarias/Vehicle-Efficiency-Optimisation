@@ -2,7 +2,7 @@
 ### Final Year Physics Project — University of Nottingham (2024)
 
 > **Computational optimisation of vehicle driving efficiency across varying terrain profiles using Monte Carlo simulation.**
-> Built as a final year project in the School of Physics & Astronomy — directly analogous to AGV route optimisation and energy-efficient fleet navigation in smart factory systems.
+> Built as a final year project in the School of Physics & Astronomy — directly analogous to route optimisation and energy-efficient fleet navigation in smart systems.
 
 ---
 
@@ -18,11 +18,10 @@ The study models a **2020 Ford Fiesta 1.0L EcoBoost (125hp, 6-speed manual)** us
 
 This project was originally motivated by real-world fuel economy and emissions reduction. The computational methodology — model vehicle physics, define a control parameter space (throttle variation), and optimise across simulated scenarios — maps directly to:
 
-- **AGV/LGV route optimisation** in automated warehouses
 - **Energy-efficient fleet management** for autonomous vehicle systems  
 - **Real-time motion control** where look-ahead terrain data drives actuation decisions
 
-The key finding (anticipate upcoming terrain and use built-up momentum rather than constant throttle) mirrors how modern AGV traffic management systems pre-plan routes to minimise energy and maximise throughput.
+The key finding (anticipate upcoming terrain and use built-up momentum rather than constant throttle) mirrors how modern traffic management systems pre-plan routes to minimise energy and maximise throughput.
 
 ---
 
