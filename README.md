@@ -106,6 +106,7 @@ python physics_engine.py
 ## Authors
 
 Miguel PJ Arias · University of Nottingham, School of Physics & Astronomy · May 2024  
+Ethan White · University of Nottingham, School of Physics & Astronomy · May 2024  
 *Pair project — vehicle physics engine and optimisation framework built collaboratively.*
 
 ---
