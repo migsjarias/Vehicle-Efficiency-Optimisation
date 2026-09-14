@@ -1,5 +1,5 @@
 # Vehicle Efficiency Optimisation
-### Final Year Physics Project — University of Nottingham (2024)
+### Final Year Physics Project (University of Nottingham, 2024)
 
 > **Computational optimisation of vehicle driving efficiency across varying terrain profiles using Monte Carlo simulation.**
 > Built as a final year project in the School of Physics & Astronomy — directly analogous to route optimisation and energy-efficient fleet navigation in smart systems.
