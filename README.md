@@ -2,7 +2,7 @@
 ### Final Year Physics Project (University of Nottingham, 2024)
 
 > **Computational optimisation of vehicle driving efficiency across varying terrain profiles using Monte Carlo simulation.**
-> Built as a final year project in the School of Physics & Astronomy, directly analogous to route optimisation and energy-efficient fleet navigation in smart systems.
+> Built as a final year project in the School of Physics & Astronomy. The method — parameterised control, sampled trade space, Pareto front recovery, validation against an analytical limit — is the one used for low-thrust trajectory optimisation and Δv–time-of-flight trade studies.
 
 ---
 
@@ -19,8 +19,9 @@ The study models a **2020 Ford Fiesta 1.0L EcoBoost (125hp, 6-speed manual)** us
 This project was originally motivated by real-world fuel economy and emissions reduction. The methodology: model vehicle physics, define a control parameter space (throttle variation), and optimise across simulated scenarios.
 
 This can map directly to:
-- **Energy-efficient fleet management** for autonomous vehicle systems  
-- **Real-time motion control** where look-ahead terrain data drives actuation decisions
+- **Δv–time-of-flight trade studies** — the energy vs. journey-time Pareto front is the same object as a porkchop plot: cost against duration, pick your operating point
+- **Low-thrust trajectory optimisation** — discretising throttle per road segment is the same parameterisation as thrust-per-arc in direct transcription methods
+- **Energy-efficient fleet management** for autonomous vehicle systems
 
 The key finding (anticipate upcoming terrain and use built-up momentum rather than constant throttle) mirrors how modern traffic management systems pre-plan routes to minimise energy and maximise throughput.
 
