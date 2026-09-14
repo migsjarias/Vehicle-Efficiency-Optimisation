@@ -1,8 +1,8 @@
 # Vehicle Efficiency Optimisation
 ### Final Year Physics Project (University of Nottingham, 2024)
 
-> **Computational optimisation of vehicle driving efficiency across varying terrain profiles using Monte Carlo simulation.**
-> Built as a final year project in the School of Physics & Astronomy. The method — parameterised control, sampled trade space, Pareto front recovery, validation against an analytical limit — is the one used for low-thrust trajectory optimisation and Δv–time-of-flight trade studies.
+**Computational optimisation of vehicle driving efficiency across varying terrain profiles using Monte Carlo simulation.**
+Built as a final year project in the School of Physics & Astronomy, directly analogous to route optimisation and energy-efficient fleet navigation in smart systems. The method: parameterised control, sampled trade space, Pareto front recovery, validation against an analytical limit.
 
 ---
 
